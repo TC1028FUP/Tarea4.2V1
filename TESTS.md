@@ -14,12 +14,6 @@ sudo -H pip3 install pytest
     ```
     pytest assignments/06PromedioConDecision
  
-- ## 16 Suma Dígitos
-    ### Run command
-    ```
-    pytest assignments/16SumaDigitos
-    ```
-
 - ## 17 Número cuadrado mayor que 
     ### Run command
     ```
